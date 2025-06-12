@@ -17,14 +17,14 @@ const articles = [
     id: 2,
     title: "Alergi Kacang: Tips Aman untuk Anak-anak",
     content: "Kacang adalah salah satu pemicu alergi paling umum. Hindari produk olahan yang tidak memiliki label bahan yang jelas.",
-    image_url: "https://cdn.hellosehat.com/wp-content/uploads/2022/04/fa400c2d-shutterstock_1696192372.jpg?w=1080&q=100",
+    image_url: "https://sumateraekspres.bacakoran.co/upload/1798da5765cd1f70d3f928a6675377b8.jpg",
     date: "2025-06-10"
   },
   {
     id: 3,
     title: "Label Makanan: Bagaimana Membacanya untuk Penderita Alergi",
     content: "Label makanan kadang menyembunyikan istilah alergen. Pelajari istilah seperti 'protein susu', 'albumin', atau 'gluten'.",
-    image_url: "https://cdn.hellosehat.com/wp-content/uploads/2022/04/fa400c2d-shutterstock_1696192372.jpg?w=1080&q=100",
+    image_url: "https://medicastore.com/images/penyakit/CF0UK_Alergi-Fisik.jpg",
     date: "2025-06-08"
   }
 ];
